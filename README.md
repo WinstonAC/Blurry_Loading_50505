@@ -10,3 +10,5 @@ Instructor: Brad Traversy
 Features: maping one number range to another.
 
 Imagery: Taken Spring 2019 in Stockholm Sweden
+
+Deployed: using vercel https://blurry-loading-50505.vercel.app/
