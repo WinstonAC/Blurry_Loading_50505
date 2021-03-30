@@ -7,4 +7,6 @@ This was created using udemy
 
 Instructor: Brad Traversy
 
-Features: maping one number range to another
+Features: maping one number range to another.
+
+Imagery: Taken Spring 2019 in Stockholm Sweden
